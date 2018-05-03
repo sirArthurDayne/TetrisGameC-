@@ -1,19 +1,19 @@
 ﻿  main.cpp
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(13): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(39): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(45): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(70): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(74): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(87): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(91): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(100): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(115): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(128): warning C4305: '=': truncation from 'double' to 'float'
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(163): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(216): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(221): warning C4010: single-line comment contains line-continuation character
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(233): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(245): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\xavier\documents\proyectos cpp\juegos\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(254): warning C4010: single-line comment contains line-continuation character
-  TetrisGame-ByKrosis.vcxproj -> C:\Users\Xavier\Documents\Proyectos Cpp\Juegos\TetrisProyect\TetrisGame-ByKrosis\Debug\TetrisGame-ByKrosis.exe
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(13): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(39): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(45): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(70): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(74): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(87): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(91): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(100): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(115): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(128): warning C4305: '=': truncation from 'double' to 'float'
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(163): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(216): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(221): warning C4010: single-line comment contains line-continuation character
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(233): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(245): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\dev\github rep\tetrisproyect\tetrisgame-bykrosis\src\main.cpp(254): warning C4010: single-line comment contains line-continuation character
+  TetrisGame-ByKrosis.vcxproj -> C:\Dev\GitHub Rep\TetrisProyect\TetrisGame-ByKrosis\Debug\TetrisGame-ByKrosis.exe
